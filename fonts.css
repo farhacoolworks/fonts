@@ -29,6 +29,17 @@
 
 }
 @font-face {
+    font-family: 'taun_elango_cholaa';
+    src: url('taun_elango_cholaa.eot');
+    src: url('taun_elango_cholaa.eot?#iefix') format('embedded-opentype'),
+         url('taun_elango_cholaa.woff') format('woff'),
+         url('taun_elango_cholaa.ttf') format('truetype'),
+         url('taun_elango_cholaa.svg#taun_elango_cholaa') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
     font-family: 'Panchali';
     src: url('taun_elango_panchali.eot');
     src: url('taun_elango_panchali.eot?#iefix') format('embedded-opentype'),
