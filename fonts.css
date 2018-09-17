@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'taun_elango_abiramiregular';
+    src: url('../fonts/taun_elango_abirami.eot');
+    src: url('../fonts/taun_elango_abirami.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/taun_elango_abirami.woff') format('woff'),
+         url('../fonts/taun_elango_abirami.ttf') format('truetype'),
+         url('../fonts/taun_elango_abirami.svg#taun_elango_abiramiregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'Kamban';
+    src: url('../fonts/taun_elango_kamban.eot');
+    src: url('../fonts/taun_elango_kamban.eot') format('embedded-opentype'), 
+        url('../fonts/taun_elango_kamban.woff') format('woff'), 
+        url('../fonts/taun_elango_kamban.ttf') format('truetype'), 
+        url('../fonts/taun_elango_kamban.svg') format('svg');
+}
+@font-face {
+    font-family: 'taun_elango_abiramiregular';
+    src: url('../fonts/taun_elango_abirami.eot');
+    src: url('../fonts/taun_elango_abirami.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/taun_elango_abirami.woff') format('woff'),
+         url('../fonts/taun_elango_abirami.ttf') format('truetype'),
+         url('../fonts/taun_elango_abirami.svg#taun_elango_abiramiregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'Panchali';
+    src: url('../fonts/taun_elango_panchali.eot');
+    src: url('../fonts/taun_elango_panchali.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/taun_elango_panchali.woff') format('woff'),
+         url('../fonts/TAUN_Elango_Panchali.TTF') format('truetype'),
+         url('../fonts/taun_elango_panchali.svg#TAUN_Elango_Panchali') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
